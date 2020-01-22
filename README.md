@@ -5,7 +5,7 @@ There are so many new models and architectures. If you find something interestin
 https://coggle.it/diagram/Wf5mYoJbsgABUF9P
 ![https://coggle.it/diagram/Wf5mYoJbsgABUF9P](Neural_Net_Arch_Genealogy.png)
 ## Text Version
-This is automatically generated. Please send a PR on the `Neural Net Arch Genealogy.txt` file.
+This is automatically generated, so please send a PR on the `Neural Net Arch Genealogy.txt` file.
 * Reinforcement Learning Algorithms
   * [A3C, '16.02.06](https://arxiv.org/abs/1602.01783)
   * [DARLA, '17.07.26](https://arxiv.org/pdf/1707.08475.pdf)
